@@ -1,33 +1,25 @@
 <h1 align="center">
   Martin Groß
-  <br><br>
+  <br>
+  <div align="center">
+  
+  [![image](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-groß-003146255/)
+  [![image](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Martin_Gross14/cv)
+  
+  </div>
 </h1>
 
 <p align="center">
   <br>
   designer, web developer, loves UI, knows HTML, CSS, Sass, React, Id, Ps, Ai
 </p>
-
-
-<h1></h1>
-
-
-<div align="center">
-  
-  [![image](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-groß-003146255/)
-  [![image](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Martin_Gross14/cv)
-  
   <div align="center">
     <p> <img src=https://komarev.com/ghpvc/?username=grossesbewirken alt=grossesbewirken/> </p>
   </div>
   
-</div>
 
 
 <h1></h1>
-
-
-
 
 <table align="center">
   <tr>
