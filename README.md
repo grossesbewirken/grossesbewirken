@@ -71,18 +71,26 @@
 <br>
 
 <div align="center">
- <a href="https://improof-fe.vercel.app" target="_blank">
-  <img src="https://user-images.githubusercontent.com/101559030/226302004-a5c09a50-1edd-4c7d-8d23-36965d9c4838.JPG" width="450">
- </a>
-  <p ></p>
+  <a href="https://improof-fe.vercel.app" target="_blank">
+   <img src="https://user-images.githubusercontent.com/101559030/226302004-a5c09a50-1edd-4c7d-8d23-36965d9c4838.JPG" width="400">
+  </a>
+  <p align="center">final project</p>
 </div>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/101559030/226303102-0ed0e899-12e6-4191-ae52-a06993edb819.JPG" width="450">
+  <a href="https://coffy-paste.vercel.app" target="_blank">
+   <img src="https://user-images.githubusercontent.com/101559030/226303102-0ed0e899-12e6-4191-ae52-a06993edb819.JPG" width="400">
+  </a>
+  <p align="center">backend project</p>
 </div>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/101559030/226303248-c4b1cc0f-4a6a-4cef-8808-c3ea7aa3fd30.JPG" width="450">
+  <a href="https://grossesbewirken.github.io/SPA-FINAL-PROJECT" target="_blank">
+   <img src="https://user-images.githubusercontent.com/101559030/226303248-c4b1cc0f-4a6a-4cef-8808-c3ea7aa3fd30.JPG" width="400">
+  </a>
+  <p align="center">react project</p>
 </div>
 
 
