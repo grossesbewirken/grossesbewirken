@@ -1,27 +1,26 @@
-<h4 align="center">Hi! I´m Martin!</h4>
-<h1 align="center">Nice to meet you!
-  <br>
-  <br>
+<!--<h4 align0"center">$${\color{aqua}Hi,\space i\space am\space Martin}$$</h4>-->
 
-  <div align="center">
 
-  [![image](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-groß-003146255/)
-  [![image](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Martin_Gross14/cv)
+<br>
+<h1 align="center" class="red" >Hi! <br> Nice, to meet you.<br><br></h1>
+<br>
 
-  </div>
-</h1>
 
-<p align="center">
-  <br>
-  designer, web developer, loves UI, knows HTML, CSS, Sass, React, Id, Ps, Ai
-</p>
-  <div align="center">
-    <p> <img src=https://komarev.com/ghpvc/?username=grossesbewirken alt=grossesbewirken/> </p>
-  </div>
+<h3 align="center">that´s me:</h3>
+<p align="center">designer, web developer, loves UI, knows HTML, CSS, Sass, React, Id, Ps, Ai</p>
+
  
 
+<br>
 <h1></h1>
-<h5 align="center">acchievements</h5>
+<br>
+  
+  
+
+<h3 align="center">acchievements:</h3>
+<br>
+
+
 
 <table align="center">
   <tr>
@@ -61,29 +60,69 @@
 </table>
 
 
-  
+<br>
+<h1></h1>
+<br>
 
 
 
 
+<h3 align="center">projects:</h3>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101559030/226302004-a5c09a50-1edd-4c7d-8d23-36965d9c4838.JPG" width="450">
+  <p ></p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101559030/226303102-0ed0e899-12e6-4191-ae52-a06993edb819.JPG" width="450">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101559030/226303248-c4b1cc0f-4a6a-4cef-8808-c3ea7aa3fd30.JPG" width="450">
+</div>
+
+
+
+<br>
+<h1></h1>
+<br>
+
+<h3 align="center">contact:</h3>
+<br>
+<div align="center">
+
+[![image](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-groß-003146255/)
+[![image](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Martin_Gross14/cv)
+
+</div>
 
 
 
 
+<br>
+<h1></h1>
+<br>
 
-## Feedback
 
-If you have any feedback, please reach out to me at mail@grossesbewirken.de
 
-<!--
-- 🔭 I’m currently working on this readme
-- 🌱 I’m currently learning to wirte a readme
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://rahuldkjain.github.io/gh-profile-readme-generator/
---!>
+
+<h3 align="center">cv:</h3>
+<br>
+
+
+
+<br>
+<h1></h1>
+<br>
+
+
+
+<h3 align="center">views:</h3>
+<br>
+<div align="center">
+  <p> <img src=https://komarev.com/ghpvc/?username=grossesbewirken alt=grossesbewirken/> </p>
+</div>
+
 
