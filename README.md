@@ -5,16 +5,10 @@ ${\color{aqua}Hi,\space i\space am\space Martin}$
 </div> -->
 
 
-a[href='red'] {
-    color: red;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
-
 <br>
 <h1 align="center" class="red" >Hi! <br> Nice, to meet you.<br><br></h1>
 <br>
+
 
 
 <h3 align="center">that´s me:</h3>
