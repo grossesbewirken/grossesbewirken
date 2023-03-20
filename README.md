@@ -1,5 +1,16 @@
-<!--<h4 align0"center">$${\color{aqua}Hi,\space i\space am\space Martin}$$</h4>-->
+<!-- <div align="center">
 
+${\color{aqua}Hi,\space i\space am\space Martin}$
+
+</div> -->
+
+
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
 
 <br>
 <h1 align="center" class="red" >Hi! <br> Nice, to meet you.<br><br></h1>
@@ -73,25 +84,31 @@
 <div align="center">
   <a href="https://improof-fe.vercel.app" target="_blank">
    <img src="https://user-images.githubusercontent.com/101559030/226302004-a5c09a50-1edd-4c7d-8d23-36965d9c4838.JPG" width="400">
+   <p>"improof" - final project</p>
   </a>
-  <p align="center">final project</p>
+  <p align="center">made by Eleni Orfanou, Florian Mewes, Jeff Braun, Martin Groß</p>
 </div>
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://coffy-paste.vercel.app" target="_blank">
    <img src="https://user-images.githubusercontent.com/101559030/226303102-0ed0e899-12e6-4191-ae52-a06993edb819.JPG" width="400">
+   <p>"coffy paste" - backend project</p>
   </a>
-  <p align="center">backend project</p>
+  <p align="center">made by Eleni Orfanou, Florian Mewes, Jeff Braun, Martin Groß</p>
 </div>
-<br>
+<br><br>
+
+
 
 <div align="center">
   <a href="https://grossesbewirken.github.io/SPA-FINAL-PROJECT" target="_blank">
    <img src="https://user-images.githubusercontent.com/101559030/226303248-c4b1cc0f-4a6a-4cef-8808-c3ea7aa3fd30.JPG" width="400">
+   <p>"nerdsherd" - react project</p>
   </a>
-  <p align="center">react project</p>
+  <p align="center">made by Florian Mewes, Jeff Braun, Martin Groß</p>
 </div>
+<br>
 
 
 
