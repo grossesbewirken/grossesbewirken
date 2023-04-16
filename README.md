@@ -6,6 +6,12 @@ ${\color{aqua}Hi,\space i\space am\space Martin}$
 
 
 <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101559030/232327935-8a2133ab-4470-4ae7-8c54-5b47999464d5.png" width="150">
+</div>
+
+
+
 <h1 align="center" class="red" >Hi! <br> Nice, to meet you.<br><br></h1>
 <br>
 
