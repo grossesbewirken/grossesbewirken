@@ -12,7 +12,7 @@ ${\color{aqua}Hi,\space i\space am\space Martin}$
 
 
 <h3 align="center">that´s me:</h3>
-<p align="center">designer, web developer, loves UI, knows HTML, CSS, Sass, React, Id, Ps, Ai</p>
+<p align="center">designer, becomes web developer, loves UI, knows HTML, CSS, Sass, React, Id, Ps, Ai</p>
 
  
 
